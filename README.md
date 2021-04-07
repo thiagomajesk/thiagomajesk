@@ -1,4 +1,4 @@
-### Hi there, I'm Thiago 👋
+### Hello there 👋
 
 <p align="left">
   🔭 Currently working on some exciting Elixir projects <br/>  
