@@ -9,6 +9,6 @@
 ## ✨ GitHub stats
 
 <a href="https://github.com/thiagomajesk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomajesk&theme=graywhite&count_private=true&show_icons=true" alt="Thiago's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagomajesk&theme=graywhite&langs_count=6 &layout=compact&count_private=true" alt="Thiago's GitHub Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomajesk&theme=graywhite&count_private=true&show_icons=true&bg_color=F6F8FA&border_color=D8DEE4&icon_color=57606A&text_color=57606A" alt="Thiago's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagomajesk&theme=graywhite&langs_count=6 &layout=compact&count_private=true&bg_color=F6F8FA&border_color=D8DEE4" alt="Thiago's GitHub Top Languages" />
 </p>
