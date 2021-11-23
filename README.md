@@ -1,4 +1,4 @@
-### 👋 Hello there! 
+## 👋 Hello there! 
 
 <p align="left">
   💻 Currently working on some exciting Elixir projects <br/>  
@@ -6,9 +6,9 @@
   📫 I'm not really into social media these days, but you can DM on <a href="https://www.linkedin.com/in/thiago-majesk-goulart">LinkedIn</a> (if you want to talk about work)  
 </p>
 
-### ✨ GitHub stats
+## ✨ GitHub stats
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomajesk&layout=compact&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=0,111827,1F2937&hide_border=true" style="max-width: 100%"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagomajesk&langs_count=4 &layout=compact&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=0,111827,1F2937&hide_border=true" style="max-width: 100%" />
-</p>
+<a href="https://github.com/thiagomajesk">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomajesk&layout=compact&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=0,111827,1F2937&hide_border=true" style="max-width: 100%" alt="Thiago's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagomajesk&langs_count=4 &layout=compact&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=0,111827,1F2937&hide_border=true" style="max-width: 100%" alt="Thiago's GitHub Top Languages"/>
+</a>
