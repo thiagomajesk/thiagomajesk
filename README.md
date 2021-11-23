@@ -8,7 +8,7 @@
 
 ## ✨ GitHub stats
 
-<a href="https://github.com/thiagomajesk" style="display: flex">
+<a href="https://github.com/thiagomajesk" style="display: flex" rel="noreferrer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomajesk&layout=compact&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=0,111827,1F2937&hide_border=true" alt="Thiago's GitHub Stats" style="min-width: 0" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagomajesk&langs_count=4 &layout=compact&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=0,111827,1F2937&hide_border=true" alt="Thiago's GitHub Top Languages" style="min-width: 0"/>
 </a>
