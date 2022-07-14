@@ -1,14 +1,13 @@
-## 👋 Hello there! 
+## 👋 About me 
 
-<p align="left">
-  💻 Currently working on some exciting Elixir projects <br/>  
-  💬 You can ask me about Elixir, C# and overall tech stuff <br/>   
-  📫 I'm not really into social media these days, but you can DM on <a href="https://www.linkedin.com/in/thiago-majesk-goulart">LinkedIn</a> (if you want to talk about work)  
-</p>
+Hello there! I'm Thiago, a self-declared "Software Craftsman", "Problem Solver" and "Master of None" who likes pop culture, games, and cinema in general.
+
+
+ - 💻 Currently working on some exciting Elixir projects <br/>  
+ - 💬 You can ask me about Elixir, C# and overall tech stuff <br/>   
+ - 📫 I'm not really into social media these days, but you can <a href="https://www.linkedin.com/in/thiago-majesk-goulart">DM me if you want to talk about work</a>
 
 ## ✨ GitHub stats
 
-<a href="https://github.com/thiagomajesk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomajesk&theme=graywhite&count_private=true&show_icons=true&bg_color=F6F8FA&border_color=D8DEE4&icon_color=57606A&text_color=57606A" alt="Thiago's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagomajesk&theme=graywhite&langs_count=6 &layout=compact&count_private=true&bg_color=F6F8FA&border_color=D8DEE4" alt="Thiago's GitHub Top Languages" />
-</p>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagomajesk&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Thiago's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomajesk&layout=compact&theme=graywhite&hide_border=true" alt="Thiago's GitHub Top Languages"/></a> |
+| ------------- | ------------- |
