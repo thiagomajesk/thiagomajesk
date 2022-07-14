@@ -1,6 +1,6 @@
 ## 👋 About me 
 
-Hello there! I'm Thiago, a self-declared "Software Craftsman", "Problem Solver" and "Master of None" who likes pop culture, games, and cinema in general.
+Hello there! I'm Thiago, a self-declared "Problem Solver" and "Master of None" who likes pop culture, games, and cinema in general.
 
 
  - 💻 Currently working on some exciting Elixir projects <br/>  
