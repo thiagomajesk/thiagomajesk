@@ -1,13 +1,13 @@
-## 👋 About me 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="25" height="25" /> Hello there! 
 
-Hello there! I'm Thiago, a self-declared "Problem Solver" and "Master of None" who likes pop culture, games, and cinema in general.
+A self-declared "Problem Solver" and "Master of None" who is passionate about solving problems that can make people's lives easier.
+I'm also a proud geek who takes a great interest in music, games, cinema, and pop culture in general.
+ 
+---
 
+I've been working as a Software Engineer for over 10 years now and dabbled in a lot of different technologies during this time. I'm big into functional programming, game development, and AI. I also find UI and UX fascinating and have been heavily interested in product building for quite a while. I'm also an experienced Tech Lead who loves the [Shape Up](https://basecamp.com/shapeup) methodology.
 
- - 💻 Currently working on some exciting Elixir projects <br/>  
- - 💬 You can ask me about Elixir, C# and overall tech stuff <br/>   
- - 📫 I'm not really into social media these days, but you can <a href="https://www.linkedin.com/in/thiago-majesk-goulart">DM me if you want to talk about work</a>
-
-## ✨ GitHub stats
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagomajesk&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Thiago's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomajesk&layout=compact&theme=graywhite&hide_border=true" alt="Thiago's GitHub Top Languages"/></a> |
-| ------------- | ------------- |
+ - 💻 Currently working on some exciting projects using Elixir/Phoenix/LiveView and other cool things. 
+ - 💬 You can ask me about programming, leadership, and overall tech stuff - I'm very curious and always learning.
+ - 📫 I'm not really into social media, but you can reach me through <a href="https://www.linkedin.com/in/thiago-majesk-goulart">LinkedIn</a>.
+ - 📝 I try to share my discoveries with the world over here: https://thiagomajesk.github.io/.
